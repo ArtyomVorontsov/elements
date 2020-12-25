@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+$mainColor: rgb(208, 225, 255);
+$mainColorText: rgb(21, 103, 255);
+
+$secondary: rgb(226, 227, 229);
+$secondaryDark: rgb(126, 126, 126);
+$secondaryText: rgb(49, 49, 49);
+
+$sucess: rgb(209, 231, 222);
+$sucessDark: rgb(146, 231, 196);
+$sucessText: rgb(33, 156, 105);
+
+
+$danger: rgb(248, 215, 218);
+$dangerDark: rgb(247, 105, 117);
+$dangerText: rgb(175, 37, 49);
+
+$warning: rgb(255, 243, 205);
+$warningDark: rgb(248, 213, 97);
+$warningText: rgb(173, 142, 37);
+
+$info: rgb(207, 244, 252);
+$infoDark: rgb(101, 223, 250);
+$infoText: rgb(28, 120, 141);
